@@ -1,6 +1,6 @@
 {
   "name": "mod-jxf-session-title",
-  "version": "0.1.20261018051307",
+  "version": "0.1.20261018170407",
   "description": "Names a session from its first prompt with a small model and shows the name above the prompt.",
   "author": {
     "name": "John Feminella"
