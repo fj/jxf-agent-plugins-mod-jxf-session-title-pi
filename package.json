@@ -1,0 +1,24 @@
+{
+  "name": "mod-jxf-session-title",
+  "version": "0.1.20261018051307",
+  "description": "Names a session from its first prompt with a small model and shows the name above the prompt.",
+  "author": {
+    "name": "John Feminella"
+  },
+  "repository": "https://github.com/fj/agent-plugins",
+  "type": "module",
+  "keywords": [
+    "pi-package"
+  ],
+  "pi": {
+    "extensions": [
+      "./src/adapters/pi"
+    ]
+  },
+  "engines": {
+    "node": ">=22.18"
+  },
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": "*"
+  }
+}
